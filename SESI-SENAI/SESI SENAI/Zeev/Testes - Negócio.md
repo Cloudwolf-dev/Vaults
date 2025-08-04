@@ -1,0 +1,34 @@
+- SSI
+	- Até 1k
+		- Teste 1 [#87546](https://orquestra4.sesisenaiap.org.br/2.0/audit?c=eaBKhIga%2FfDNREtMIWHjbs3x2KFjUX%2FHYKIK0gzHniTXza2YZ4u0tm7gxgVz%2FjJk)
+			- REF v12: [#87428](https://orquestra4.sesisenaiap.org.br/2.0/audit?c=eaBKhIga%2FfDNREtMIWHjbv2GVDAOfDOLAlX3LuTxQeqpGP4nL7MZQU9JcfB7JtMKdxIoaxQR%2Bp6Y4FoL6iL0dYzVZes3G5Oo8yYz0mD7OCc%3D)
+			- T01: OK
+			- T02: OK
+			- T04: OK
+			- T05: OK
+			- T06: OK
+			- T11: OK
+	- 1k até 3k
+		- Teste 1 [#87577](https://orquestra4.sesisenaiap.org.br/2.0/audit?c=eaBKhIga%2FfDNREtMIWHjboJiOUM%2FsZ%2BbtLioFeWhHmheJPpP4XbTvqXn1OGU3Cwp)
+			- REF v12: [#87084](https://orquestra4.sesisenaiap.org.br/2.0/audit?c=eaBKhIga%2FfDNREtMIWHjbmTfCz8EmW5cWJYwNpUsDhH0oh5FoWQ7mhx73om1TU5oRIeauLA%2FOQ0IOQuGDENhsNnhw0IvOeguKkf5C5sRELQ%3D)
+			- T01: OK
+			- T02: OK
+			- T04: OK
+			- T05: OK
+			- T06: OK
+			- T11: OK
+	- 3K+
+		- Teste 1 [#87593](https://orquestra4.sesisenaiap.org.br/2.0/audit?c=eaBKhIga%2FfDNREtMIWHjbmGB7jJRzvuIOpW8bvGwkmdIisXw1CuprqCutLXQLFE52aYLf1iYfEGnlHco56o%2B3OqwxuYRL1hzFNqYVDYDO10%3D)
+			- Sem REF
+			- T01: OK
+			- T02: OK
+			- Erro na configuração do processo "Requisição para Educação" marcado como não. Desconsiderar teste após solução dos erros no SB01 - Remanejamento.
+			- SB01 - Remanejamento
+		- Teste 2 [#87624](https://orquestra4.sesisenaiap.org.br/2.0/audit?c=eaBKhIga%2FfDNREtMIWHjbnUVqOPMnlObRc74YvreybwoXXAPB2Rpkw1kF%2Bw%2FpNkODsRoSfff7KKZjQJhGdhVtt8tAc5H49LUWB%2FTsxkia1w%3D)
+			- Sem REF
+			- T01: OK
+			- T02: OK
+			- T04: OK
+			- T05: OK
+			- T06: OK
+			- T16 - Superintendência SESI acima de 3k: OK

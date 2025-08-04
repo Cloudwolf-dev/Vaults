@@ -1,0 +1,12 @@
+{
+  "nativeMenus": true,
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "accentColor": "#c6a0f6",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "page-width"
+  ]
+}
